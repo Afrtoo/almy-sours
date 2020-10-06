@@ -1,2 +1,1 @@
-# almy-sours
-Jsj0
+# Alamy
